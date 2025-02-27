@@ -22,6 +22,7 @@ This code and its related files (hereinafter referred to as "this code") are cre
 1. **Prohibition of Commercial Use**: You may not use this code or any modified version for any commercial purposes, including but not limited to selling, licensing, or using it in products or services intended to generate revenue.
 2. **Prohibition on Republishing to Public Domains**: You may not publicly release, distribute, or share this code or any modified version in any form on other platforms or to other individuals, including but not limited to websites, code repositories (such as GitHub), forums, etc.
 3. **Prohibition of Claiming Originality**: You may not claim this code or any modified version as your original work. You must retain clear attribution to HimService as the original author in any context in which it is used.
+4. **Prohibition of Illegal Use**: You may not use this code or any modified version thereof in any manner that violates applicable laws or regulations. It is your responsibility and obligation to ensure that your use complies with all applicable laws and regulations. Legal use is the responsibility and obligation of every user.
 
 #### Additional Terms
 - This code is provided on an "as-is" basis without any express or implied warranties, including but not limited to warranties of merchantability or fitness for a particular purpose.
